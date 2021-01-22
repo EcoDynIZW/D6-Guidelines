@@ -194,9 +194,11 @@ For detailed information about Spatial data go to Appendix B).
 When you are submitting a manuscript create a copy of the related subproject folder and add a suffix `submission_1_<JournalAbbreviation>`. This copy shall be stored and never changed (we recommend to zip this folder)! When conducting a revisions or resubmission, copy the folder to `submission_2_<JournalAbbreviation>` and revise the paper.
 
 Please find additional information on ‘how to write a scientific paper’, how to avoid statistical pitfalls or how to organize workflows here: `U:\GUEST\Abteilung6\LabGuidlines\D6_Lab_Guidelines_SupplementsToRead`, or on request.  
-
+  
 \newpage
 
+---
+  
 **I have read the above guidelines (and Appendices!) and will follow them.**
 
 Date: __ . __ . ____  
@@ -204,9 +206,11 @@ Date: __ . __ . ____
 Name: ___________________________________  
   
 Admin: __________________________________
+  
+---
 
 \newpage
-
+  
 # Appendix A) Folder Structure for Project Folders
 
 A new project can be started by installing the [d6 R-package](https://github.com/EcoDynIZW/d6) (https://github.com/EcoDynIZW/d6). Running `new_project()` with a unique and descriptive name for your project (see below) will create a full scaffolding structure for all your future analysis steps. If you like, you can also specify a path and the project will be created there. 
