@@ -59,7 +59,7 @@ For information on the Department, check [our webpage](https://www.ecological-dy
 :::{custom-style="left-aligned"}
 Conny Landgraf  
 Tel: - 466  
-Email: assist6@izw-berlin.de or landgraf@izw-berlin.de   
+Email: assist6[at]izw-berlin.de or landgraf[at]izw-berlin.de   
 :::
 
 ## Data Managers
@@ -67,11 +67,11 @@ Email: assist6@izw-berlin.de or landgraf@izw-berlin.de
 :::{custom-style="left-aligned"}
 Dr. Jan Axtner   
 Tel: - 339  
-Email: axtner@izw-berlin.de  
+Email: axtner[at]izw-berlin.de  
   
 Moritz Wenzler  
 Tel: - 722  
-Email: wenzler@izw-berlin.de  
+Email: wenzler[at]izw-berlin.de  
 :::
 
 ## In-house experts / scientists / responsibilities
@@ -81,7 +81,7 @@ Who does what in the department? Tasks and expertise as well as meeting dates an
 
 # Conducting BSc/MSc/PhD Projects
 
-For PhD students: please read the IZW PhD guidelines (`\\izw-daten-8\Alle\GUEST\Doktorand(inn)en\IZW-PhD-rules`) carefully and follow the instructions (e.g. when you have to give an introduction talk). For any question about these guidelines, contact the PhD coordinators (currently: Gábor Czirják (czirjak@izw-berlin.de) and Sarah Benhaiem (benhaiem@izw-berlin.de)).
+For PhD students: please read the IZW PhD guidelines (`\\izw-daten-8\Alle\GUEST\Doktorand(inn)en\IZW-PhD-rules`) carefully and follow the instructions (e.g. when you have to give an introduction talk). For any question about these guidelines, contact the PhD coordinators (currently: Gábor Czirják (czirjak[at]izw-berlin.de) and Sarah Benhaiem (benhaiem[at]izw-berlin.de)).
 
 
 ## Meetings
@@ -268,18 +268,11 @@ knitr::include_graphics('./src/folder_structure_d6_projects.png')
 
 # Appendix C) What Nature Says…
 
-*Nature 561, 277 (2018) doi: 10.1038/d41586-018-06619-3*
+*Nature **561**, 277 (2018)*
 
 **Why you need an agenda for meetings with your principal investigator**
 
 A list of talking points can help with navigating potentially difficult topics and sticky negotiations. 
 As PhD students, we often find ourselves discussing our interactions with our principal investigators (PIs) and swapping advice for improving our mentoring meetings. We have found three practices to be consistently helpful: asking our PIs about all aspects of their job; preparing an agenda for each meeting; and negotiating new experiments without explicitly saying ‘no’.
-We both see our PhD programmes as academic apprenticeships. One crucial goal is to flesh out our understanding of life as a PI. By collaborating with our PIs and observing how they work, we learn how to plan experiments and how to write papers. But we don’t get to practise other skills, such as interacting with journal editors and recruiting lab members. To learn these, we ask our PIs about how they plan when running the lab. For example, when people leave Samuel’s lab, he asks his PI about her plans for reallocating shared lab responsibilities. 
-Face-to-face time with our PIs must be focused, so we use agendas to organize the conversation. We habitually start with, “I made a list of topics I wanted to talk to you about.” Tess often starts her agendas with an update on her efforts to develop new research equipment so that her PI can evaluate their importance to her project. When Tess was designing new probes for electrophysiological recordings, her PI helped her to balance testing new research hardware against continuing data collection with older technology. Preparing an agenda also helps us to learn our PIs’ priorities. Before Samuel discusses new data or his progress on experiments, he always asks his PI, “Is there anything else you wanted to talk about?”
-Setting an agenda helps us to introduce uncomfortable topics. For example, including ‘summer course funding’ in her agenda helped Tess to request funding for a course on computational neuroscience — something she had been avoiding doing for weeks. It turned out that Tess’s PI was happy to provide support. 
-We and our PIs see our projects from different perspectives. Whereas they focus on the big picture, we wrestle with implementation. Because of this disconnect, we can discount their advice as being out of touch. Conversely, if we shoot down all their suggestions for ambitious experiments, our PIs grow frustrated. 
-When we realize we’re saying ‘no’, we try to engage with our PI’s idea by asking specific questions. These moments of potential conflict can turn into opportunities to hash out experimental strategies. We might say, “I think that would be an exciting direction, and it would be helpful for me if we could discuss specific metrics for measuring that result.” Instead of searching for flaws, we try to discuss a realistic road map for an optimistic outcome. 
-We are never going to be perfect mentees. We remind each other to take an active role in our mentoring relationships and to seek mentorship from multiple sources. Tess has great conversations with her physician–scientist PI about her clinical interests as an MD–PhD student. But she also has female mentors for advice about working within a male-dominated field. Samuel routinely discusses personal career goals with his PI, but relies on collaborators for advice on experimental techniques outside his PI’s expertise.
-Discussions on mentorship often place the onus solely on the mentor. But, as mentees, we also need to ask ourselves, “What’s working and not working in this interaction? Where can I try something new? What would be ideal?” No template can solve all PI–student concerns. But simple steps can go a long way in helping these relationships to thrive.  
-  
-*Link: https://doi.org/10.1038/d41586-018-06619-3*
+
+*Read the full text: https://doi.org/10.1038/d41586-018-06619-3*
