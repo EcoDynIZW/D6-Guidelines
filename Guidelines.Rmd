@@ -69,7 +69,7 @@ Dr. Jan Axtner
 Tel: - 339  
 Email: axtner[at]izw-berlin.de  
   
-Moritz Wenzler  
+Moritz Wenzler-Meya  
 Tel: - 722  
 Email: wenzler[at]izw-berlin.de  
 :::
@@ -128,7 +128,7 @@ Project documentation is not a final task, but an ongoing process starting from 
 
 ### Electronic lab-book
 
-At the start of each new project, create an electronic lab-book to document your workflow and decisions therein. It is of major importance that you keep this lab-book updated. For the ease of use we recommend simple .doc files (MS Word, Libre Office etc.) to keep record of our work. Write down important thoughts, things you have tried, also failed experiments. Try to use clear and comprehensible notes. Although this generates some additional effort you will realize soon that it will help you and others to track your work and make it reproducible. We highly recommend to use GitHub as version control of your project. You should connect your GitHub account to the EcoDynIZW organization on [GitHub](https://github.com/EcoDynIZW/d6) (https://github.com/EcoDynIZW/d6) to share code with colleagues. It is mandatory to hand over the electronic lab-book to the institute as part of the ‘Safeguarding and Storing of Primary Data’ regulation of the German Research Council DFG after finishing your project. 
+At the start of each new project, create an electronic lab-book to document your workflow and decisions therein. It is of major importance that you keep this lab-book updated. For the ease of use we recommend simple .doc files (MS Word, Libre Office etc.) to keep record of our work. Write down important thoughts, things you have tried, also failed experiments. Try to use clear and comprehensible notes. Although this generates some additional effort you will realize soon that it will help you and others to track your work and make it reproducible. We highly recommend to use GitHub as version control of your project. You have to connect your GitHub account to the EcoDynIZW organization on [GitHub](https://github.com/EcoDynIZW/d6) (https://github.com/EcoDynIZW/d6) to share code with colleagues. Please create repositories on the EcoDynIZW account and not on your private account! It is mandatory to hand over the electronic lab-book to the institute as part of the ‘Safeguarding and Storing of Primary Data’ regulation of the German Research Council DFG after finishing your project. 
 To document scripting we recommend to use R Markdown (`.rmd`) files if possible. Between your code chunks you should annotate the script with everything that is necessary to understand and follow the code. Additionally, if you push new code to GitHub for version control, you have to comment on your committed code as well. It may be necessary to have an additional word document.
 
 
@@ -136,7 +136,7 @@ To document scripting we recommend to use R Markdown (`.rmd`) files if possible.
 
 ## General recommendations
 
-* Write the author, name and date in a header.
+* Write the author, name and date in a header (you can use the d6 package templates for this as well).
 *	Keep code in scripts as concise as possible.
 *	Use in-line comments to explain your code that others can follow your code. 
 *	If possible, use dynamic paths (i.e. see R-package [`here`](https://here.r-lib.org/) (https://here.r-lib.org/)).
