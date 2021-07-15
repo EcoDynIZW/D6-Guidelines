@@ -4,23 +4,22 @@ date: "`r Sys.setlocale('LC_TIME', 'C'); paste('Last Update:', format(Sys.time()
 lang: "en"
 output: 
 ## OPTION A: Word Document
-  word_document:
-    reference_docx: ./src/guidelines-template.docx
-## OPTION B: HTML Document
-  # html_document:
-  #   theme: journal
-  #   highlight: kate
-  #   toc_depth: 2
-  #   toc_float: true
-  #   number_sections: true
+  # word_document:
+  #   reference_docx: ./src/guidelines-template.docx
+# ## OPTION B: HTML Document
+#   html_document:
+#     theme: journal
+#     highlight: kate
+#     toc_depth: 2
+#     toc_float: true
+#     number_sections: true
 ## OPTION C: PDF Document
-  # pdf_document:
-  #   latex_engine: lualatex
+  pdf_document:
+    latex_engine: lualatex
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE, fig.cap = TRUE)
-
 library(tidyverse)
 ```
 
@@ -215,6 +214,8 @@ Admin: __________________________________
 
 A new project can be started by installing the [d6 R-package](https://github.com/EcoDynIZW/d6) (https://github.com/EcoDynIZW/d6). Running `new_project()` with a unique and descriptive name for your project (see below) will create a full scaffolding structure for all your future analysis steps. If you like, you can also specify a path and the project will be created there. 
 
+Please create repositories on the EcoDynIZW account and not on your private
+account!
 
 ## Root project folder
 
