@@ -3,19 +3,19 @@ title: "Guidelines for Studies in the Department of Ecological Dynamics of the I
 date: "`r Sys.setlocale('LC_TIME', 'C'); paste('Last Update:', format(Sys.time(), '%B %e, %Y'))`"
 lang: "en"
 output: 
-## OPTION A: Word Document
+## OPTION A: HTML Document
+  html_document:
+    theme: journal
+    highlight: kate
+    toc_depth: 2
+    toc_float: true
+    number_sections: true
+## OPTION B: Word Document
   # word_document:
   #   reference_docx: ./src/guidelines-template.docx
-# ## OPTION B: HTML Document
-#   html_document:
-#     theme: journal
-#     highlight: kate
-#     toc_depth: 2
-#     toc_float: true
-#     number_sections: true
 ## OPTION C: PDF Document
-  pdf_document:
-    latex_engine: lualatex
+#   pdf_document:
+#     latex_engine: lualatex
 ---
 
 ```{r setup, include=FALSE}
