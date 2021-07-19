@@ -3,19 +3,19 @@ title: "Guidelines for Studies in the Department of Ecological Dynamics of the I
 date: "`r Sys.setlocale('LC_TIME', 'C'); paste('Last Update:', format(Sys.time(), '%B %e, %Y'))`"
 lang: "en"
 output: 
-## OPTION A: HTML Document
-  html_document:
-    theme: journal
-    highlight: kate
-    toc_depth: 2
-    toc_float: true
-    number_sections: true
-## OPTION B: Word Document
-   # word_document:
-   #   reference_docx: ./src/guidelines-template.docx
-## OPTION C: PDF Document
-   # pdf_document:
-   #   latex_engine: lualatex
+# ## OPTION A: HTML Document
+#   html_document:
+#     theme: journal
+#     highlight: kate
+#     toc_depth: 2
+#     toc_float: true
+#     number_sections: true
+# OPTION B: Word Document
+word_document:
+  reference_docx: ./src/guidelines-template.docx
+# # OPTION C: PDF Document
+# pdf_document:
+#   latex_engine: lualatex
 ---
 
 ```{r setup, include=FALSE}
@@ -228,7 +228,7 @@ e.g. *unicornus_wl_sdm_smith_j* (unicornus project in wonderland, species distri
 * Everything should be written in small letters.
 * Avoid spaces or hyphen in the path to the file. 
 * Species name should be in latin and please use your surname and the first letter of your given name at the end. 
-* Country should be the international abbreviation.
+* Country should be the international abbreviation (https://de.wikipedia.org/wiki/ISO-3166-1-Kodierliste).
 
 The root project folder should hold: 
 
